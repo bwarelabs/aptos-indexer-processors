@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@aptos-labs/aptos-protos": "1.1.2",
-    "@grpc/grpc-js": "=1.9.2",
+    "@grpc/grpc-js": "=1.9.15",
     "google-protobuf": "^3.21.2",
     "pg-connection-string": "^2.6.2",
     "timer-node": "^5.0.7",
