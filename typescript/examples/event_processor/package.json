@@ -16,7 +16,7 @@
     "@aptos-labs/aptos-processor-sdk": "=0.2.0",
     "commander": "^11.0.0",
     "pg": "^8.11.3",
-    "typeorm": "=0.3.17"
+    "typeorm": "0.3.28-dev.38715bb"
   },
   "devDependencies": {
     "@types/node": "^18.17.13",
